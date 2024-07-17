@@ -1,0 +1,5 @@
+.idea/
+venv/
+env/
+*.wav
+*.mp3
